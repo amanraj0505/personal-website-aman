@@ -1,7 +1,7 @@
 import logo from "../assets/aman_logo_tr.png";
 import { FaLinkedin } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
-import { FaSquareXTwitter, FaXTwitter } from "react-icons/fa6";
+import { FaXTwitter } from "react-icons/fa6";
 import { FaInstagram } from "react-icons/fa";
 
 const Navbar = () => {
