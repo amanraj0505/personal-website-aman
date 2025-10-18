@@ -1,5 +1,6 @@
 import { HERO_CONTENT } from "../constants";
 import profilePic from "../assets/aman_avatar.jpg";
+import resume from "../assets/resume_amanraj.pdf";
 import { motion } from "framer-motion";
 
 const containerVariants = {
@@ -64,7 +65,7 @@ const Hero = () => {
             </motion.p>
             <motion.a
               variants={childVariants}
-              href="/resume_amanraj.pdf"
+              href={resume}
               target="_blank"
               rel="noopener noreferrer"
               download
