@@ -1,7 +1,7 @@
 import logo from "../assets/aman_logo_tr.png";
 import { FaLinkedin } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
-import { FaSquareXTwitter } from "react-icons/fa6";
+import { FaSquareXTwitter, FaXTwitter } from "react-icons/fa6";
 import { FaInstagram } from "react-icons/fa";
 
 const Navbar = () => {
@@ -20,7 +20,7 @@ const Navbar = () => {
       </div>
       <div className="m-8 flex items-center justify-center gap-4 text-2xl">
         <a
-          href="https://www.linkedin.com/in/your-linkedin-profile"
+          href="https://www.linkedin.com/in/amanraj0505/"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="LinkedIn"
@@ -28,7 +28,7 @@ const Navbar = () => {
           <FaLinkedin />
         </a>
         <a
-          href="https://github.com/your-github-profile"
+          href="https://github.com/amanraj0505"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="GitHub"
@@ -36,7 +36,7 @@ const Navbar = () => {
           <FaGithub />
         </a>
         <a
-          href="https://www.instagram.com/your-instagram-profile"
+          href="https://www.instagram.com/amanraj__05/"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="Instagram"
@@ -44,12 +44,12 @@ const Navbar = () => {
           <FaInstagram />
         </a>
         <a
-          href="https://twitter.com/your-twitter-profile"
+          href="https://x.com/amanraj05_05"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="Twitter"
         >
-          <FaSquareXTwitter />
+          <FaXTwitter />
         </a>
       </div>
     </nav>
