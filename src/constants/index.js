@@ -15,7 +15,7 @@ export const EXPERIENCES = [
     technologies: [
       "Typescript",
       "Javascript",
-      "ReactNative",
+      "React Native",
       "React.js",
       "Android",
       "Redux",
@@ -29,7 +29,7 @@ export const EXPERIENCES = [
     technologies: [
       "Typescript",
       "Javascript",
-      "ReactNative",
+      "React Native",
       "React.js",
       "Android",
       "Mobx",
@@ -43,7 +43,7 @@ export const EXPERIENCES = [
     technologies: [
       "Typescript",
       "Javascript",
-      "ReactNative",
+      "React Native",
       "React.js",
       "Android",
       "Redux",
@@ -60,7 +60,7 @@ export const PROJECTS = [
     technologies: [
       "Typescript",
       "Javascript",
-      "ReactNative",
+      "React Native",
       "React.js",
       "Android",
       "Redux",
@@ -74,7 +74,7 @@ export const PROJECTS = [
     technologies: [
       "Typescript",
       "Javascript",
-      "ReactNative",
+      "React Native",
       "React.js",
       "Android",
       "Redux",
@@ -88,7 +88,7 @@ export const PROJECTS = [
     technologies: [
       "Typescript",
       "Javascript",
-      "ReactNative",
+      "React Native",
       "React.js",
       "Android",
       "Redux",
